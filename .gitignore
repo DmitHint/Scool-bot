@@ -1,0 +1,7 @@
+# Cache files
+__pycache__/
+*/__pycache__
+.idea
+#history.txt
+#config.py
+#data_base/base.db
